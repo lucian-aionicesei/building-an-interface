@@ -9,8 +9,8 @@ function App() {
         <BiCalendar className="inline-block text-red-400 align-top" />
         Your Appointments
       </h1>
-      <AddAppointment />
       <Search />
+      <AddAppointment />
     </div>
   );
 }
