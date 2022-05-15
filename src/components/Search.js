@@ -92,7 +92,7 @@ const Search = ({
                 setToggleSort(!toggleSort);
               }}
               type="button"
-              className="justify-center px-4 py-2 bg-blue-400 border-2 border-blue-400 text-sm text-white hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 flex items-center"
+              className="justify-center px-4 py-2 bg-blue-500 border-2 border-blue-400 text-sm text-white hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 flex items-center"
               id="options-menu"
               aria-haspopup="true"
               aria-expanded="true"
